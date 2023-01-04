@@ -17,7 +17,7 @@ Configures the default settings of the page.
 
 ```python
 st.set_page_config(
-  title="My app",
+  page_title="My app",
   favicon=":shark:",
 )
 ```
